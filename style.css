@@ -1,0 +1,50 @@
+body{ background-color: pink}
+
+
+h1{
+	font-family: tahoma;
+	border: 2.5px red solid;
+	color: red;	
+	background-color: black;
+	text-decoration: underline;
+}
+
+ p{
+	color: yellow;
+	border: 2.5px red solid;
+	font-weight: : bold;
+	font-family:  tahoma;
+	background-color: black;
+
+}
+.container p{
+	width: 80%;
+	margin : auto;
+}
+
+.f label {
+	display : block;
+	font-weight: bold;
+	font-family: tahoma;
+
+}
+.s input [type = "SUBMIT"] {
+	background-color: black;
+	color: red;
+	padding: 10px;
+	border :none;
+}
+
+.o h2{
+	color: red;
+	font-family: tahoma;
+	font-weight:  bold;
+	border: 2.5px red solid;
+	border-radius: 15px;
+
+
+}
+
+.o li {
+	text-decoration: square;
+}
